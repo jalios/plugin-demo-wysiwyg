@@ -1,0 +1,11 @@
+########################################################################
+# Unified insert demo
+#
+# JSP (required)
+unified-insert.items.bmc.jsp: plugins/DemoWysiwygPlugin/jsp/bmc.jsp
+# Icon (required)
+unified-insert.items.bmc.icon: glyph: icomoon-cash3
+# Order (Optionnal) : 
+unified-insert.items.bmc.order: -666
+# Enabled status (Optionnal) 
+unified-insert.items.bmc.enabled: true
