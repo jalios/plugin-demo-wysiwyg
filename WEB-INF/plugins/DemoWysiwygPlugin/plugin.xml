@@ -5,7 +5,7 @@
   <label xml:lang="en">Wysiwyg demonstration Plugin</label>
   <label xml:lang="fr">Module de démonstration wysiwyg</label>
   
-  <description xml:lang="en">This plugin provides demonstration of wysiwyg developement for Jalios JPlatform 10.</description>
+  <description xml:lang="en">This plugin provides demonstration of wysiwyg developements for Jalios JPlatform 10.</description>
   <description xml:lang="fr">Ce module fournit une démonstration des développements wysiwyg pour Jalios JPlatform 10.</description>
   
   <private-files>
