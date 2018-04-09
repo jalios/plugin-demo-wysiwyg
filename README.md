@@ -1,6 +1,6 @@
 # DemoWysiwyg plugin
 
-Module de démonstration des configurations et développements possibles sur l'éditeur texte riche (wysiwyg) dans Jalios JPlatform 10..<br/>
+Module de démonstration des configurations et développements possibles sur l'éditeur texte riche (wysiwyg) dans Jalios JPlatform 10.<br/>
 _Demonstration plugin of the possible configurations and developements for the rich text editor (wysiwyg) in Jalios JPlatform 10._
 
 # Prérequis - _Requirements_
