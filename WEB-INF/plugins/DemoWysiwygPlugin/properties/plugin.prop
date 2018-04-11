@@ -9,3 +9,10 @@ unified-insert.items.bmc.icon: glyph: icomoon-cash3
 unified-insert.items.bmc.order: -666
 # Enabled status (Optionnal) 
 unified-insert.items.bmc.enabled: true
+
+
+########################################################################
+# Demo of basic button added to editor toolbar
+#
+wysiwyg.plugins.wordcounter: plugins/DemoWysiwygPlugin/wysiwyg/plugins/wordcounter/plugin.js
+wysiwyg.additional.configuration.wordcounter: /WEB-INF/plugins/DemoWysiwygPlugin/wysiwyg/configuration-wordcounter.conf

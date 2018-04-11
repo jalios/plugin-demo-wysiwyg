@@ -12,3 +12,7 @@ unified-insert.items.bmc.content.customerrelationships: Relations clientes
 unified-insert.items.bmc.content.channels: Canaux (de communication et de distribution)
 unified-insert.items.bmc.content.revenuestreams: Flux de revenus
 unified-insert.items.bmc.content.customersegments: Clientèle ciblée
+
+# Plugin dwordcounter
+wysiwyg.plugins.wordcounter.btn.tooltip: Compter les mots
+wysiwyg.plugins.wordcounter.message: Nombre de mots dans la sélection : {0}

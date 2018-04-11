@@ -12,3 +12,8 @@ unified-insert.items.bmc.content.customerrelationships: Customer Relationships
 unified-insert.items.bmc.content.channels: Channels
 unified-insert.items.bmc.content.revenuestreams: Revenue Streams
 unified-insert.items.bmc.content.customersegments: Customer Segments
+
+
+# Plugin dwordcounter
+wysiwyg.plugins.wordcounter.btn.tooltip: Count words
+wysiwyg.plugins.wordcounter.message: Number of words in current selection: {0}
