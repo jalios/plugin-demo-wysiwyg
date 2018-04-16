@@ -20,6 +20,11 @@ unified-insert.items.bmc.order: -666
 unified-insert.items.bmc.enabled: true
 
 ########################################################################
+# Demo of standard TinyMCE option (style select menu) added to the editor
+#
+wysiwyg.additional.configuration.styles: /WEB-INF/plugins/DemoWysiwygPlugin/wysiwyg/configuration-styles.conf
+
+########################################################################
 # Demo of standard TinyMCE plugin/button added to editor toolbar
 #
 wysiwyg.additional.configuration.insertdatetime: /WEB-INF/plugins/DemoWysiwygPlugin/wysiwyg/configuration-insertdatetime.conf
