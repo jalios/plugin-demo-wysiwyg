@@ -1,4 +1,13 @@
 ########################################################################
+# Media template / Unified insert demo
+#
+# Articles Unified Insert UI
+unified-insert.items.article.jsp: plugins/DemoWysiwygPlugin/jsp/article/unifiedInsertArticle.jsp
+unified-insert.items.article.icon: glyph: glyphicons-article
+# Article Media/Data template
+media.data-template.default.Article: /plugins/DemoWysiwygPlugin/jsp/article/mediaTemplateArticle.jsp
+
+########################################################################
 # Unified insert demo
 #
 # JSP (required)

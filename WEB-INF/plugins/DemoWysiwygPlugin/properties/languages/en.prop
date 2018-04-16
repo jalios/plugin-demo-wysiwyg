@@ -1,4 +1,9 @@
+# UnifiedInsert : Article demo
+unified-insert.items.article: Article
+unified-insert.items.article.longtitle: An Article
+unified-insert.items.article.subtitle: (display an article using card format)
 
+# UnifiedInsert : BMC demo
 unified-insert.items.bmc: Business Model Canvas
 unified-insert.items.bmc.longtitle: A Business Model Canvas
 unified-insert.items.bmc.subtitle: (Quickly fill a Business Model Canvas)

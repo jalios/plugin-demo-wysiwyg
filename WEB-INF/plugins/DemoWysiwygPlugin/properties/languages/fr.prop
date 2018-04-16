@@ -1,4 +1,9 @@
+# UnifiedInsert : Article demo
+unified-insert.items.article: Article
+unified-insert.items.article.longtitle: Un Article
+unified-insert.items.article.subtitle: (présenter un article au format carte)
 
+# UnifiedInsert : BMC demo
 unified-insert.items.bmc: Matrice d'affaires
 unified-insert.items.bmc.longtitle: Une matrice d'affaires
 unified-insert.items.bmc.subtitle: (remplir rapidement une matrice d'affaires)
