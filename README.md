@@ -9,7 +9,7 @@ _Demonstration plugin of the possible configurations and developements for the r
 
 # Utilisation - _Usage_
 
-Les configurations et développements de ce module seront expliqués dans la [documentation du wysiwyg bientôt disponible sur Jalios Community](https://community.jalios.com/).
+Les configurations et développements de ce module sont expliqués dans la [documentation du wysiwyg disponible sur Jalios Community](https://community.jalios.com/wysiwyg).
 
-Configurations and developements of this plugin will be explained in the [wysiwyg documentation soon available on Jalios Community](https://community.jalios.com/).
+Configurations and developements of this plugin are explained in the [wysiwyg documentation available on Jalios Community](https://community.jalios.com/wysiwyg).
 
