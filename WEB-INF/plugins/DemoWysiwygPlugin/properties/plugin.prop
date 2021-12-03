@@ -5,7 +5,7 @@
 unified-insert.items.article.jsp: plugins/DemoWysiwygPlugin/jsp/article/unifiedInsertArticle.jsp
 unified-insert.items.article.icon: glyph: glyphicons-article
 # Article Media/Data template
-media.data-template.default.Article: /plugins/DemoWysiwygPlugin/jsp/article/mediaTemplateArticle.jsp
+#media.data-template.default.Article: /plugins/DemoWysiwygPlugin/jsp/article/mediaTemplateArticle.jsp
 
 ########################################################################
 # Unified insert demo
@@ -45,3 +45,11 @@ wysiwyg.configuration-update.wordcounter-button.action: INSERT_TOOLBAR_ITEM_AFTE
 wysiwyg.configuration-update.wordcounter-button.item: countword
 wysiwyg.configuration-update.wordcounter-button.item-after: charmap
 wysiwyg.configuration-update.wordcounter-button.target-conf: default
+
+########################################################################
+# Demo of a fragment declaration, 
+#  it can be used in any configuration using : 
+#  ::include{'property': 'wysiwyg.fragment.configuration.customfragment'} 
+#
+#wysiwyg.fragment.configuration.customfragment: /WEB-INF/plugins/DemoWysiwygPlugin/wysiwyg/fragments/configuration-customfragment.conf
+
