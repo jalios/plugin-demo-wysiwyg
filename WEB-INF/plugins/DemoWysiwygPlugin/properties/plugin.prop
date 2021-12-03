@@ -20,17 +20,28 @@ unified-insert.items.bmc.order: -666
 unified-insert.items.bmc.enabled: true
 
 ########################################################################
-# Demo of standard TinyMCE option (style select menu) added to the editor
+# Demo of standard TinyMCE options added to editor
 #
 wysiwyg.additional.configuration.styles: /WEB-INF/plugins/DemoWysiwygPlugin/wysiwyg/configuration-styles.conf
 
 ########################################################################
 # Demo of standard TinyMCE plugin/button added to editor toolbar
 #
-wysiwyg.additional.configuration.insertdatetime: /WEB-INF/plugins/DemoWysiwygPlugin/wysiwyg/configuration-insertdatetime.conf
+wysiwyg.configuration-update.insertdatetime-plugin.action: INSERT_PLUGIN
+wysiwyg.configuration-update.insertdatetime-plugin.plugin: insertdatetime 
+wysiwyg.configuration-update.insertdatetime-button.action: INSERT_TOOLBAR_ITEM_AFTER
+wysiwyg.configuration-update.insertdatetime-button.item: insertdatetime
+wysiwyg.configuration-update.insertdatetime-button.item-after: charmap
 
 ########################################################################
 # Demo of custom TinyMCE plugin/button added to editor toolbar
 #
 wysiwyg.plugins.wordcounter: plugins/DemoWysiwygPlugin/wysiwyg/plugins/wordcounter/plugin.js
-wysiwyg.additional.configuration.wordcounter: /WEB-INF/plugins/DemoWysiwygPlugin/wysiwyg/configuration-wordcounter.conf
+wysiwyg.tinymce5.plugins.wordcounter: plugins/DemoWysiwygPlugin/wysiwyg/plugins/wordcounter5/plugin.js
+wysiwyg.configuration-update.wordcounter-plugin.action: INSERT_PLUGIN
+wysiwyg.configuration-update.wordcounter-plugin.plugin: -wordcounter 
+wysiwyg.configuration-update.wordcounter-plugin.target-conf: default
+wysiwyg.configuration-update.wordcounter-button.action: INSERT_TOOLBAR_ITEM_AFTER
+wysiwyg.configuration-update.wordcounter-button.item: countword
+wysiwyg.configuration-update.wordcounter-button.item-after: charmap
+wysiwyg.configuration-update.wordcounter-button.target-conf: default
